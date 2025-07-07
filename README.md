@@ -53,12 +53,12 @@ Focus on semantic HTML and readability.
 
     <h1>Harish Ragav S</h1>
     <h2>Student</h2>
-    <h3>Aspiring Web Developer</h3>
+    <h3>Aspiring Software Engineer</h3>
 
     <hr>
 
     <section>
-        <img src="profile.jpg" alt="Profile picture of Harish Ragav S" width="200" height="200">
+        <img src="profile.png" alt="Profile picture of Harish Ragav S" width="200" height="200">
         <!-- Replace "profile.jpg" with your actual image file path -->
     </section>
 
@@ -67,7 +67,7 @@ Focus on semantic HTML and readability.
     <section>
         <h2>About Me</h2>
         <p>
-            I am a 3rd-year Computer Science student at Saveetha Engineering College. Passionate about full-stack development and AI-based applications, I aim to build practical tech solutions and contribute to impactful projects. I also enjoy cricket, writing, and learning about startups and business.
+            I am a 3rd-year Computer Science student at Saveetha Engineering College. Passionate about full-stack development and AI-based applications, I aim to build practical tech solutions and contribute to impactful projects.
         </p>
     </section>
 
@@ -89,8 +89,8 @@ Focus on semantic HTML and readability.
         <ul>
             <li>Web Development</li>
             <li>AI and Resume Ranking Tools</li>
-            <li>Business and Franchising</li>
-            <li>Cricket Commentary and Analysis</li>
+            <li>Movies</li>
+            <li>Cricket </li>
         </ul>
     </section>
 
